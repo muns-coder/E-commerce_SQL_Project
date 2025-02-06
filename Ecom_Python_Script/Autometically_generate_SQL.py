@@ -23,10 +23,10 @@ indian_states_cities = {
 
 # MySQL Database Connection
 db = mysql.connector.connect(
-    host="localhost",            # Change this if MySQL is on another server
-    user="root",                 # Your MySQL username
-    password="Muns@1204",        # Your MySQL password
-    database="ecom"              # Your database name
+    host="*****",            # Change this if MySQL is on another server
+    user="****",                 # Your MySQL username
+    password="****",        # Your MySQL password
+    database="**"              # Your database name
 )
 
 cursor = db.cursor()
