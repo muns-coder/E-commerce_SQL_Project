@@ -1,10 +1,10 @@
 @echo off
 
 REM Define MySQL login credentials
-set "HOST=localhost"
-set "USER=root"
-set "PASSWORD=Muns@1204"
-set "DATABASE=ecom"
+set "HOST=your_host"
+set "USER=user_name"
+set "PASSWORD=your_password"
+set "DATABASE=your_database"
 
 REM Prompt the user to enter a date (format: YYYY-MM-DD)
 echo Please enter a date (format: YYYY-MM-DD):
